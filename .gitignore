@@ -148,3 +148,4 @@ Desktop.ini
 
 ../.env
 .env
+server/.env
