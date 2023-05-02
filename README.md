@@ -2,6 +2,8 @@
 
 This application was generated using the [NodeJS blueprint](https://github.com/jhipster/generator-jhipster-nodejs) of JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1). For any questions you can refer to the stream lead: [Angelo Manganiello](https://github.com/amanganiello90).
 
+Want to learn more? [Check out this NFT API & SDK Hands-On Coding Tutorial](https://www.youtube.com/watch?v=FrR9bF6S_fg)
+
 ## Development
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
